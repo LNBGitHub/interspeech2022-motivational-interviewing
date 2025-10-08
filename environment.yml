@@ -310,4 +310,5 @@ dependencies:
     - build==0.7.0
     - pep517==0.12.0
     - tomli==1.2.2
-prefix: /home/mustafa/anaconda3/envs/interspeechmi
+#prefix: /home/mustafa/anaconda3/envs/interspeechmi
+prefix: C:\Users\lnbco\anaconda3\envs\interspeechmi
